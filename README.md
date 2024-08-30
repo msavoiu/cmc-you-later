@@ -4,7 +4,7 @@
 
 ## About
 
-This project came about as a result of me reading an excruciatingly long web novel series throughout the entirety of a 12 hour flight, absolutely wrecking my carpometacarpal (CMC) joint with all the repetitive scrolling.
+This project came about as a result of me reading an excruciatingly long web novel series throughout the entirety of a 12 hour flight, absolutely wrecking my carpometacarpal (CMC) joint with the repetitive scrolling.
 
 After some initial panic and then recovery, I had learned three things about myself:
 1) I thankfully did not have osteoarthritis.
