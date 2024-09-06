@@ -1,6 +1,6 @@
 # CMC You Later!
 
-**CMC You Later!** uses a neural network trained on data gathered from myself and my roommates to receive and execute voice commands to remotely perform gestures like swiping and tapping on an iPhone, reducing the need to perform those repetitive gestures with your hands and put strain on joints.
+**CMC You Later!** uses voice recognition to receive and execute voice commands to remotely perform gestures like swiping and tapping on an iPhone, reducing the need to perform those repetitive gestures with your hands and put strain on joints.
 
 ## About
 
